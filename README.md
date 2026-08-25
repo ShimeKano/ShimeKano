@@ -53,7 +53,7 @@ Interests      AI • Automation • Games • Bots • Experiments
 
 <div align="center">
 
-### 🕹️ [**PLAY CONTRIBUTION.exe →**](https://shimekano.github.io/ShimeKano/contribution.exe/)
+### 🕹️ [**PLAY CONTRIBUTION.exe →**](https://shimekano.github.io/ShimeKano/)
 
 </div>
 
