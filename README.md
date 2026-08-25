@@ -33,19 +33,7 @@ I build weird things, break them, figure out why they broke, and then make them 
 
 ---
 
-## ⚙️ `toolbox`
-
-```text
-Languages      Python • JavaScript • TypeScript • HTML • CSS
-Backend        Node.js • APIs • Databases
-Frontend       React • Vite • Web UI
-Infrastructure Git • GitHub • Linux • Docker • Cloud
-Interests      AI • Automation • Games • Bots • Experiments
-```
-
----
-
-# 🎮 `CONTRIBUTION.exe`
+## 🎮 Xem hành trình của bạn
 
 ### Your GitHub history is your character sheet.
 
@@ -53,13 +41,13 @@ Interests      AI • Automation • Games • Bots • Experiments
 
 <div align="center">
 
-### 🕹️ [**PLAY CONTRIBUTION.exe →**](https://shimekano.github.io/ShimeKano/)
+### 🕹️ [**XEM HÀNH TRÌNH CỦA BẠN →**](https://shimekano.github.io/ShimeKano/)
 
 </div>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  CONTRIBUTION.EXE                          ║
+║                  YOUR JOURNEY                               ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  EVERY DEVELOPER HAS A DIFFERENT PATH.                      ║
