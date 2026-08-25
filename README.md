@@ -12,19 +12,24 @@
 
 ---
 
-## `whoami`
+## 🖥️ `SHIMEKANO.EXE`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ USER: SHIMEKANO                                              │
-│ ROLE: DEVELOPER / BUILDER                                   │
-│                                                              │
-│ coding      ████████████████████░ 95%                        │
-│ debugging   ████████████████████ 100%                       │
-│ planning    █████░░░░░░░░░░░░░░ 25%                         │
-│ sleeping    ██░░░░░░░░░░░░░░░░ 12%                         │
-│ chaos       ████████████████████ 100%                       │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                     SHIMEKANO.EXE                           ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  SYSTEM STATUS: ONLINE                                       ║
+║  PLAYER: SHIMEKANO                                           ║
+║  CLASS: DEVELOPER                                            ║
+║                                                              ║
+║  coding      ████████████████████░ 95%                      ║
+║  debugging   ████████████████████ 100%                      ║
+║  planning    █████░░░░░░░░░░░░░░ 25%                        ║
+║  sleeping    ██░░░░░░░░░░░░░░░░ 12%                        ║
+║  chaos       ████████████████████ 100%                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 I don't really stick to one stack, one genre, or one idea for very long.
@@ -33,34 +38,38 @@ I build weird things, break them, figure out why they broke, and then make them 
 
 ---
 
-## 🎮 Xem hành trình của bạn
-
-### Your GitHub history is your character sheet.
-
-**Enter your GitHub username and create a journey based on your own public GitHub activity.**
-
-<div align="center">
-
-### 🕹️ [**XEM HÀNH TRÌNH CỦA BẠN →**](https://shimekano.github.io/ShimeKano/)
-
-</div>
+# 🎮 `PLAYER DETECTED`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                  YOUR JOURNEY                               ║
+║                    NEW PLAYER FOUND                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  EVERY DEVELOPER HAS A DIFFERENT PATH.                      ║
+║  Your GitHub history is your character sheet.              ║
 ║                                                              ║
-║  > Enter your GitHub username                               ║
-║  > Scan your public activity                                ║
-║  > Generate your character                                  ║
-║  > Begin your journey                                       ║
+║  > repositories                                             ║
+║  > commits                                                  ║
+║  > languages                                                ║
+║  > experiments                                              ║
+║  > failures                                                 ║
+║  > victories                                                ║
+║                                                              ║
+║  All of it tells a story.                                   ║
+║                                                              ║
+║              [ START YOUR JOURNEY ]                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> **This is not my journey. It's yours.**
+<div align="center">
+
+### 🕹️ [**▶ START YOUR JOURNEY**](https://shimekano.github.io/ShimeKano/)
+
+*Your GitHub. Your character. Your journey.*
+
+</div>
+
+> ⚠️ **Warning:** This is not my journey. It's yours.
 
 ---
 
@@ -78,6 +87,18 @@ I build weird things, break them, figure out why they broke, and then make them 
 [04:02] "don't touch it"
 [04:03] touched it
 [04:04] everything is broken
+```
+
+---
+
+## ⚙️ `TOOLBOX`
+
+```text
+Languages       Python • JavaScript • TypeScript • HTML • CSS
+Backend         Node.js • APIs • Databases
+Frontend        React • Vite • Web UI
+Infrastructure  Git • GitHub • Linux • Docker • Cloud
+Interests       AI • Automation • Games • Bots • Experiments
 ```
 
 ---
