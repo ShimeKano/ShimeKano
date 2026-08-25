@@ -6,7 +6,27 @@
 
 **Developer • Builder • AI Tinkerer**
 
+[![PLAY](https://img.shields.io/badge/▶_PLAY_SHIMEKANO.SYSTEM-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://shimekano.github.io/)
+
 > I build whatever looks interesting enough to make me say: **"How hard could it be?"**
+
+</div>
+
+---
+
+# 🎮 `PLAYER DETECTED`
+
+<div align="center">
+
+## ⚠️ YOU WERE NOT SUPPOSED TO FIND THIS
+
+**ShimeKano is no longer just a GitHub profile.**
+
+I turned the profile into a small interactive system.
+
+### ▶️ [ENTER THE SHIMEKANO SYSTEM](https://shimekano.github.io/)
+
+*30 seconds. One core. Infinite chaos.*
 
 </div>
 
@@ -38,38 +58,27 @@ I build weird things, break them, figure out why they broke, and then make them 
 
 ---
 
-# 🎮 `PLAYER DETECTED`
+# 🕹️ `THE MINI-GAME`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    NEW PLAYER FOUND                         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Your GitHub history is your character sheet.              ║
-║                                                              ║
-║  > repositories                                             ║
-║  > commits                                                  ║
-║  > languages                                                ║
-║  > experiments                                              ║
-║  > failures                                                 ║
-║  > victories                                                ║
-║                                                              ║
-║  All of it tells a story.                                   ║
-║                                                              ║
-║              [ START YOUR JOURNEY ]                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+The profile contains a tiny arcade game called **SYSTEM BREACH**.
+
+Your mission:
+
+- collect **COMMIT** shards
+- destroy the bugs by surviving contact
+- build your combo
+- protect system integrity
+- beat the local high score
+
+**Controls:** `WASD` / `ARROWS` / mouse / touch
 
 <div align="center">
 
-### 🕹️ [**▶ START YOUR JOURNEY**](https://shimekano.github.io/ShimeKano/)
-
-*Your GitHub. Your character. Your journey.*
+### [ 🚀 LAUNCH GAME → shimekano.github.io ](https://shimekano.github.io/)
 
 </div>
 
-> ⚠️ **Warning:** This is not my journey. It's yours.
+No backend. No account. No tracking. Just a tiny JavaScript game running directly in the browser.
 
 ---
 
@@ -87,6 +96,7 @@ I build weird things, break them, figure out why they broke, and then make them 
 [04:02] "don't touch it"
 [04:03] touched it
 [04:04] everything is broken
+[04:05] turned the README into a game
 ```
 
 ---
@@ -100,6 +110,19 @@ Frontend        React • Vite • Web UI
 Infrastructure  Git • GitHub • Linux • Docker • Cloud
 Interests       AI • Automation • Games • Bots • Experiments
 ```
+
+---
+
+## 🚀 `PROJECTS`
+
+| Project | What it is |
+|---|---|
+| 🎮 **StoryVerse** | Interactive story/game platform |
+| 🤖 **NeuraSelf** | AI assistant experimentation |
+| 🧠 **AI-ASSISTANT** | AI automation and assistant systems |
+| 🧪 **Experiments** | Weird ideas that probably should not work |
+
+> Most of my projects start with: **"What if..."**
 
 ---
 
@@ -131,8 +154,10 @@ This system cannot guarantee your safety.
 
 <div align="center">
 
-### `IF IT WORKS, DON'T TOUCH IT.`
+## `IF IT WORKS, DON'T TOUCH IT.`
 
 *— famous last words*
+
+### ⚡ [ENTER THE SYSTEM](https://shimekano.github.io/)
 
 </div>
